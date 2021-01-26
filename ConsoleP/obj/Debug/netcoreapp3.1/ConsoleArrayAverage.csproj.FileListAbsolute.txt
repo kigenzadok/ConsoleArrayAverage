@@ -1,0 +1,12 @@
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\bin\Debug\netcoreapp3.1\ConsoleArrayAverage.exe
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\bin\Debug\netcoreapp3.1\ConsoleArrayAverage.deps.json
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\bin\Debug\netcoreapp3.1\ConsoleArrayAverage.runtimeconfig.json
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\bin\Debug\netcoreapp3.1\ConsoleArrayAverage.runtimeconfig.dev.json
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\bin\Debug\netcoreapp3.1\ConsoleArrayAverage.dll
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\bin\Debug\netcoreapp3.1\ConsoleArrayAverage.pdb
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\obj\Debug\netcoreapp3.1\ConsoleArrayAverage.AssemblyInfoInputs.cache
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\obj\Debug\netcoreapp3.1\ConsoleArrayAverage.AssemblyInfo.cs
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\obj\Debug\netcoreapp3.1\ConsoleArrayAverage.csproj.CoreCompileInputs.cache
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\obj\Debug\netcoreapp3.1\ConsoleArrayAverage.dll
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\obj\Debug\netcoreapp3.1\ConsoleArrayAverage.pdb
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\obj\Debug\netcoreapp3.1\ConsoleArrayAverage.genruntimeconfig.cache

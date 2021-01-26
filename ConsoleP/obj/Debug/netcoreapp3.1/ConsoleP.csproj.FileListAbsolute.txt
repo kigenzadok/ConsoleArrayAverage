@@ -1,0 +1,13 @@
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\bin\Debug\netcoreapp3.1\ConsoleP.exe
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\bin\Debug\netcoreapp3.1\ConsoleP.deps.json
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\bin\Debug\netcoreapp3.1\ConsoleP.runtimeconfig.json
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\bin\Debug\netcoreapp3.1\ConsoleP.runtimeconfig.dev.json
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\bin\Debug\netcoreapp3.1\ConsoleP.dll
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\bin\Debug\netcoreapp3.1\ConsoleP.pdb
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\obj\Debug\netcoreapp3.1\ConsoleP.csprojAssemblyReference.cache
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\obj\Debug\netcoreapp3.1\ConsoleP.AssemblyInfoInputs.cache
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\obj\Debug\netcoreapp3.1\ConsoleP.AssemblyInfo.cs
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\obj\Debug\netcoreapp3.1\ConsoleP.csproj.CoreCompileInputs.cache
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\obj\Debug\netcoreapp3.1\ConsoleP.dll
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\obj\Debug\netcoreapp3.1\ConsoleP.pdb
+C:\Users\v-zakige\source\repos\ConsoleP\ConsoleP\obj\Debug\netcoreapp3.1\ConsoleP.genruntimeconfig.cache
